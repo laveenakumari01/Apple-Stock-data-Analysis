@@ -1,3 +1,5 @@
+![Screenshot 2025-06-14 175331](https://github.com/user-attachments/assets/623fcc2c-2508-4c24-a768-dd9a07d0cf1d)
+
 # 📈 Apple Stock Data Analysis
 
 This project provides an in-depth analysis and visualization of Apple's historical stock performance using the provided dataset.
