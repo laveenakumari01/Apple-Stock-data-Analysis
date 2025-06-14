@@ -40,5 +40,5 @@ The dataset `apple stock dataset.xlsx` contains Apple Inc.'s historical stock da
 - Highest closing price was observed on [Date]
 - Major drops were seen during [Event or Time Period]
 
-## 🗂 File Structure
+
 
